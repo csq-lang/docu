@@ -1,6 +1,6 @@
 # Documentation
 Deployed [here](https://csq-lang.github.io/docs).
-> https://csq-lang.github.io/docs
+> https://csq-lang.github.io/documentation
 
 ## Deploy locally
 Install `mdbook` with `cargo`
